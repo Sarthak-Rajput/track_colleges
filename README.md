@@ -1,7 +1,7 @@
 # track_colleges
 
- 1.To run the program:-
-   --> The code is given to create the database and table
+ 1.To run the program:-\
+   --> The code is given to create the database and table\
    --> Insert the values in the table(college,state)
    
  2.The start tracking button on the home page redirects to the search page where you choose the location and hit search now button, and the colleges at the location appears on the screen
