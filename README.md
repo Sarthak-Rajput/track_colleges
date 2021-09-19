@@ -10,6 +10,6 @@
 
  4.College list shows the top colleges in India
 
- 5. You can redirect to different pages through navigation bar too
+ 5.You can redirect to different pages through navigation bar too
 
  6.The navgigation bar turns into a drop down menu when the page width is less than 800px
